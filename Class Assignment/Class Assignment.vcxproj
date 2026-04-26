@@ -130,10 +130,13 @@
     <ClCompile Include="3.2.2.关系运算.c" />
     <ClCompile Include="3.2.3 找零计数器.c" />
     <ClCompile Include="for循环-阶乘.c" />
+    <ClCompile Include="接力break.c" />
     <ClCompile Include="数数几位数.c" />
     <ClCompile Include="任意整数求逆序.c" />
+    <ClCompile Include="求和.c" />
     <ClCompile Include="猜数游戏.c" />
     <ClCompile Include="算平均数.c" />
+    <ClCompile Include="素数.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
