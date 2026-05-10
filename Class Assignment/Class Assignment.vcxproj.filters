@@ -51,5 +51,11 @@
     <ClCompile Include="最大公约数.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="7-1-1.求素数的和.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.1.2多次求不同区间的数的和.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
