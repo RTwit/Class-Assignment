@@ -133,6 +133,8 @@
     <ClCompile Include="接力break.c" />
     <ClCompile Include="数数几位数.c" />
     <ClCompile Include="任意整数求逆序.c" />
+    <ClCompile Include="整数分解.c" />
+    <ClCompile Include="最大公约数.c" />
     <ClCompile Include="求和.c" />
     <ClCompile Include="猜数游戏.c" />
     <ClCompile Include="算平均数.c" />
