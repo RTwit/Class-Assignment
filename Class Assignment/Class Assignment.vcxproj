@@ -133,6 +133,7 @@
     <ClCompile Include="7.1.2多次求不同区间的数的和.c" />
     <ClCompile Include="7.1.3-参数传递Test.c" />
     <ClCompile Include="for循环-阶乘.c" />
+    <ClCompile Include="test.c" />
     <ClCompile Include="接力break.c" />
     <ClCompile Include="数数几位数.c" />
     <ClCompile Include="任意整数求逆序.c" />
