@@ -60,7 +60,7 @@
     <ClCompile Include="7.1.3-参数传递Test.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="test.c">
+    <ClCompile Include="8.1.3-统计个数.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
