@@ -1,4 +1,5 @@
 //#include<stdio.h>
+// #include<math.h>
 //
 //int main() {
 //
@@ -38,4 +39,22 @@
 //	//	printf("%d 不是素数\n", n);
 //	//}
 //	//return 0;
+//}
+
+//用函数做
+//int isPrime(int x) {
+//	int ret = 1;
+//	int i;
+//	if (x == 1 || (x % 2 == 0 && x != 2)) {
+//		ret = 0;
+//	}
+//	else {
+//		for (i = 3; i <= sqrt(x); i += 2) {//或者i<x-1
+//			if (x % i == 0) {
+//				ret = 0;
+//				break;
+//			}
+//		}
+//	}
+//	return ret;
 //}
