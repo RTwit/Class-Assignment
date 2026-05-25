@@ -69,7 +69,7 @@
     <ClCompile Include="8.2.1-数组运算-搜索.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="8.2.2-数组离子-素数.c">
+    <ClCompile Include="8.2.2-数组例子-素数.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

@@ -14,7 +14,7 @@ int main(void) {
 	while (count < number) {
 		//用isPrime发现i是一个素数的话，就把i放到prime数组里
 		if (isPrime(i, prime, count)) {//此处prime传递的是数组的地址，在 C 语言中，数组名（如 prime）在表达式中会自动转换为指向数组首元素的指针。
-			prime[count++] = i;
+			prime[count++] = i;//将i写入当前的位置后，位置后移
 		}
 		i++;
 	}
