@@ -72,5 +72,8 @@
     <ClCompile Include="8.2.2-数组例子-素数.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="test.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

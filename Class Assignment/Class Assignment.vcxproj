@@ -137,6 +137,7 @@
     <ClCompile Include="8.2.1-数组运算-搜索.c" />
     <ClCompile Include="8.2.2-数组例子-素数.c" />
     <ClCompile Include="for循环-阶乘.c" />
+    <ClCompile Include="test.c" />
     <ClCompile Include="接力break.c" />
     <ClCompile Include="数数几位数.c" />
     <ClCompile Include="任意整数求逆序.c" />
