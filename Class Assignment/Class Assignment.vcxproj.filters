@@ -72,7 +72,40 @@
     <ClCompile Include="8.2.2-数组例子-素数.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="test.c">
+    <ClCompile Include="构造素数表-方法一.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8.2.3二维数组-井字棋.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="9.1.3-指针的使用.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="9.2.2-动态内存分配.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10.1.2.-字符串变量.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10.1.3-字符串输入输出.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="18.1.4-字符串数组.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10.2.1-单字符输入输出.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10.2.2-字符串函数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11.1-枚举.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11.2-结构.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11.2.2-结构与函数.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
