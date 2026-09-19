@@ -1,7 +1,9 @@
-# ÆÁ±ÎVS»º´æÎÄ¼þ
+# ï¿½ï¿½ï¿½ï¿½VSï¿½ï¿½ï¿½ï¿½ï¿½Ä¼ï¿½
 .vs/
 x64/
 *.suo
+*.vcxproj
+*.vcxproj.filters
 *.user
 *.cache
 *.sdf
